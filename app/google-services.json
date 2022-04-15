@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213279926762",
+    "project_id": "chooseanduploadimages",
+    "storage_bucket": "chooseanduploadimages.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213279926762:android:c1faad70d39156a7a12a93",
+        "android_client_info": {
+          "package_name": "com.example.chooseanduploadimages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213279926762-ut44npgmmi33ecpejrvbnpjkgl6sljue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFdaecE2FoRqclBcmbkkze5iMPll-ZxR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213279926762-ut44npgmmi33ecpejrvbnpjkgl6sljue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
